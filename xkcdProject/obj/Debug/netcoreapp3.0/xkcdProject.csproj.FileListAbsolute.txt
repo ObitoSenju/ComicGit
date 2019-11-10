@@ -1,0 +1,72 @@
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.exe
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.deps.json
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.runtimeconfig.json
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.runtimeconfig.dev.json
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.dll
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.pdb
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.Views.dll
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.Views.pdb
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\staticwebassets\xkcdProject.StaticWebAssets.Manifest.cache
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\staticwebassets\xkcdProject.StaticWebAssets.xml
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorAssemblyInfo.cache
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorAssemblyInfo.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.AssemblyInfoInputs.cache
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.AssemblyInfo.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.TagHelpers.input.cache
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.TagHelpers.output.cache
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorCoreGenerate.cache
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorTargetAssemblyInfo.cache
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorTargetAssemblyInfo.cs
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.Views.pdb
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.dll
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.pdb
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.csproj.CopyComplete
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.csprojAssemblyReference.cache
+C:\Users\Ronaldo Tinoco\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.exe
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.deps.json
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.runtimeconfig.json
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.dll
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.pdb
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.Views.dll
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\xkcdProject.Views.pdb
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\staticwebassets\xkcdProject.StaticWebAssets.Manifest.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\staticwebassets\xkcdProject.StaticWebAssets.xml
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorAssemblyInfo.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorAssemblyInfo.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.AssemblyInfo.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.TagHelpers.input.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.TagHelpers.output.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorCoreGenerate.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorTargetAssemblyInfo.cache
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.RazorTargetAssemblyInfo.cs
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.Views.pdb
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.csproj.CopyComplete
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.dll
+C:\Users\Martin\source\repos\xkcdProject\xkcdProject\obj\Debug\netcoreapp3.0\xkcdProject.pdb
